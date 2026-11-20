@@ -1,0 +1,8 @@
+{
+  "name": "QuizMe",
+  "description": "AI-powered study companion that turns notes, code, or topics into concise concept breakdowns and interactive adaptive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
